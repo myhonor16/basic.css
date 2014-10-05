@@ -2,6 +2,8 @@ basic.css
 =========
 Basic styling for any webpage
 
+[![Version][version-img]][version-url] [![License][license-img]][license-url] [![Dependency Status][gemnasium-img]][gemnasium-url]
+
 ## installation
 
 **Via Bower - Recommended**
@@ -26,3 +28,10 @@ Each module of basic.css has options (listed below). To use an option just add `
   * *font sans-serif* - uses the sans-serif font stack
   * *font mono* - uses the fixed-width/mono-space font stack
 * *attribution* - shows a message at the bottom of the page to give attribution to basic.css
+
+[version-url]: https://github.com/myhonor16/basic.css/releases
+[version-img]: http://img.shields.io/badge/Version-1.0.0-yellow.svg
+[license-url]: https://github.com/myhonor16/basic.css/blob/master/LICENSE
+[license-img]: http://img.shields.io/badge/License-MIT-red.svg
+[gemnasium-url]: https://gemnasium.com/myhonor16/basic.css
+[gemnasium-img]: https://gemnasium.com/myhonor16/basic.css.svg
