@@ -1,0 +1,23 @@
+{
+  "name": "basic.css",
+  "homepage": "https://github.com/myhonor16/basic.css",
+  "authors": [
+    "Samuel <myhonor16@users.noreply.github.com>"
+  ],
+  "description": "",
+  "main": "dist/basic.css",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/myhonor16/basic.css.git"
+  },
+  "keywords": [
+    "css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    ".sass-cache"
+  ]
+}

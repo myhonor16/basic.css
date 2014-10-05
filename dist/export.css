@@ -1,0 +1,116 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.7em;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  word-break: break-all;
+  word-break: break-word;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+  color: #333;
+  text-align: justify;
+  margin: 1em auto;
+  max-width: 45em;
+}
+
+body[data-basic*="attribution"]:after {
+  content: 'Prettified by github.com/myhonor16/basic.css';
+  display: block;
+  text-align: center;
+  padding: 2em;
+}
+
+[data-basic*="font serif"], body {
+  font-family: 'TimesNewRoman', 'Times New Roman', 'Times', 'Baskerville', 'Hoefler Text', 'Garamond', serif;
+}
+
+[data-basic*="font sans-serif"] {
+  font-family: 'Oxygen', 'Helvetica Neue', 'Helvetica', 'Calibri', 'Arial', sans-serif;
+}
+
+[data-basic*="font mono"], pre, code {
+  font-family: 'Consolas', 'Lucida Console', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Liberation Mono', 'Courier New', 'Courier', monospace;
+}
+
+h1 {
+  font-size: 2.441em;
+}
+
+h2 {
+  font-size: 1.953em;
+}
+
+h3 {
+  font-size: 1.563em;
+}
+
+h4 {
+  font-size: 1.25em;
+}
+
+h5 {
+  font-size: 0.8em;
+}
+
+h6 {
+  font-size: 0.64em;
+}
+
+a, a:link, a:visited, a:hover, a:active {
+  color: #16B7DF;
+  text-decoration: underline;
+}
+
+hr {
+  border: 1px #bbb solid;
+  border-top: 0;
+}
+
+pre, code {
+  background-color: #eee;
+  border: 1px solid #bbb;
+  border-radius: 3px;
+  font-size: 0.85em;
+}
+
+pre {
+  white-space: pre;
+  white-space: pre-wrap;
+  white-space: pre-line;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -hp-pre-wrap;
+  word-wrap: break-word;
+  word-break: break-all;
+  word-break: break-word;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+  display: block;
+  padding: 0.8em 1em;
+}
+
+code {
+  padding: 2px 3px;
+}
+
+blockquote {
+  font-size: 1.3em;
+  margin: 1.5em 3em;
+  padding: 0 0 0.15em 0.6em;
+  border-left: #222 4px solid;
+}
+
+header {
+  text-align: center;
+}
+
+/*# sourceMappingURL=export.css.map */
